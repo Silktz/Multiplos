@@ -1,2 +1,2 @@
 # Multiplos
-Aplicaçãopara realização de identificação de numeráis multiplos 
+Aplicação para realização de identificação de numeráis multiplos 
